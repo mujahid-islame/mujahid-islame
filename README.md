@@ -46,7 +46,7 @@ I enjoy building secure, scalable, and maintainable software while continuously 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mujahid-islame&repo=YOUR_REPO_NAME&theme=transparent" />
+  <img src="https://mujahid-islam.vercel.app/" />
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20" />
