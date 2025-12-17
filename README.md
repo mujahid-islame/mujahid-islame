@@ -79,13 +79,21 @@ Microservices • System Design • Docker & CI/CD • Apache Kafka
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20" />
 
+
+
+
+  <!-- ===================== SNAKE CONTRIBUTION ===================== -->
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="18" />
 <!-- ===================== CONTACT ===================== -->
 
 <h2 align="center">🌐 Connect With Me</h2>
-
-<p align="center">
-<a href="https://facebook.com/mujahid.islam.380096"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="mailto:islamemdmujahid@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
