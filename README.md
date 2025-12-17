@@ -1,127 +1,99 @@
-<h1 align="center">👋 Hi, I'm Mujahid Islam</h1>
+<!-- ===================== HERO SECTION ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+%26+Mobile+App+Developer;Clean+Code+%7C+Scalable+Systems;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=38&pause=1200&color=00C896&center=true&vCenter=true&width=900&lines=MUJAHID+ISLAM;SOFTWARE+ENGINEER;BACKEND+%26+MOBILE+APP+DEVELOPER;CLEAN+CODE+%7C+SCALABLE+SYSTEMS" />
 </p>
-
-🚀 **Software Engineer | Backend & Mobile App Developer**
-💡 Passionate about building scalable systems, clean architectures, and efficient solutions.
-
-🎯 **Career Focus**
-
-* Backend system design & API development
-* Mobile app development with Flutter
-* Performance, security, and clean code practices
-
-💼 **Open to**: Internship | Junior Developer | Freelance | Remote Opportunities
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mujahid-islame&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
 </p>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20" />
 
-## 🌐 Connect With Me
+<!-- ===================== ABOUT ===================== -->
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://facebook.com/mujahid.islam.380096)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:islamemdmujahid@gmail.com)
-
----
-
-## 💻 Technical Skills
-
-### 👨‍💻 Programming Languages
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-
-### 🧰 Frameworks & Tools
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge\&logo=docker\&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge\&logo=apachekafka)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens)
-![CMake](https://img.shields.io/badge/CMake-008FBA?style=for-the-badge\&logo=cmake\&logoColor=white)
-
-### 🗄️ Databases & DevOps
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-
-### 🎨 Design & Collaboration
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-🔹 **Scalable REST API**
-Laravel • PostgreSQL • JWT
-
-> Designed secure authentication and optimized database queries
-
-🔹 **Flutter Mobile Application**
-Flutter • Dart • REST API
-
-> Cross-platform app with clean UI and state management
-
-🔹 **System-Level Tool**
-C / C++ • CMake
-
-> High-performance utility focusing on memory and speed
+<h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mujahid-islame&repo=your-repo-name&theme=transparent" />
+I am a <b>Software Engineer</b> focused on <b>Backend Systems</b> and <b>Cross-platform Mobile Apps</b>.  
+I enjoy building secure, scalable, and maintainable software while continuously learning new technologies.
 </p>
 
-> 📌 *Pinned repositories represent my most polished and maintained work.*
+<p align="center">
+💼 Open to: Internship • Junior Developer • Freelance • Remote
+</p>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20" />
 
-## 🧠 Currently Learning
+<!-- ===================== TECH STACK ===================== -->
 
-* Advanced Backend Architecture
-* System Design & Microservices
-* Docker & CI/CD Pipelines
-* Apache Kafka (Event-driven systems)
+<h2 align="center">💻 Tech Stack</h2>
 
----
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,go,php,dart,flutter,laravel,docker,postgres,mysql,git,github,linux,kafka" />
+</p>
 
-## 📊 GitHub Analytics
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mujahid-islame\&theme=transparent\&hide_border=false)
+<!-- ===================== FEATURED PROJECTS ===================== -->
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=mujahid-islame\&theme=transparent\&hide_border=false)
+<h2 align="center">🚀 Featured Projects</h2>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mujahid-islame\&layout=compact\&theme=transparent)
+<p align="center">
+🔹 <b>Scalable REST API</b> – Laravel, PostgreSQL, JWT  
+<br/>🔹 <b>Flutter Mobile App</b> – Clean UI, REST Integration  
+<br/>🔹 <b>System Tool</b> – High-performance C/C++ utility
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mujahid-islame&repo=YOUR_REPO_NAME&theme=transparent" />
+</p>
 
-## 👀 Profile Views
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20" />
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=mujahid-islame\&icon=0\&color=0)](https://visitcount.itsvg.in)
+<!-- ===================== CURRENTLY LEARNING ===================== -->
 
----
+<h2 align="center">🧠 Currently Learning</h2>
 
-## 🤝 Let’s Collaborate
+<p align="center">
+Microservices • System Design • Docker & CI/CD • Apache Kafka
+</p>
 
-I enjoy working on meaningful projects, learning from others, and contributing to open-source.
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20" />
 
-⭐ *Always open to learning, collaboration, and building impactful software.*
+<!-- ===================== GITHUB STATS ===================== -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mujahid-islame&show_icons=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mujahid-islame&theme=transparent" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mujahid-islame&theme=github-compact" />
 </p>
 
-<!-- Clean & professional GitHub README -->
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20" />
+
+<!-- ===================== CONTACT ===================== -->
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+<a href="https://facebook.com/mujahid.islam.380096"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="mailto:islamemdmujahid@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mujahid-islame&style=for-the-badge&color=00C896" />
+</p>
+
+<!-- ===================== FOOTER ===================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00C896,100:0077B6&section=footer" />
+</p>
