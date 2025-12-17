@@ -7,6 +7,10 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
 </p>
+<p align="left">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NGNkYmptN3Q5bGVsZjFlYmpwbmQ4M3BjZnV4MGNmdGxxY2x6NWFqZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/E89xxATM4iZoPdr6Tb/200.webp" />
+</p>
+<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHprbTd6eWF5c3R2Z2l1Ym5rZm51NmVqdmhlaG9xZjd5Yms5a3ZrdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/E89xxATM4iZoPdr6Tb/200.webp" width="180" style="margin-right: 40px;"/> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHprbTd6eWF5c3R2Z2l1Ym5rZm51NmVqdmhlaG9xZjd5Yms5a3ZrdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/E89xxATM4iZoPdr6Tb/200.webp" width="180" /> </p><p align="center"> <strong style="color: #3B82F6; font-size: 20px;">ChatGPT</strong> <span style="margin: 0 30px;">|</span> <strong style="color: #10B981; font-size: 20px;">Gemini</strong> </p><p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" /> </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20" />
 
@@ -44,10 +48,10 @@ I enjoy building secure, scalable, and maintainable software while continuously 
 <br/>🔹 <b>Flutter Mobile App</b> – Clean UI, REST Integration  
 <br/>🔹 <b>System Tool</b> – High-performance C/C++ utility
 </p>
-
 <p align="center">
-  <img src="https://mujahid-islam.vercel.app/" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJxem4yMzBvMHZiN2xmdDNoc3hvMzVjdmpnMjhxb2Noenp0aDB1MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TFPdmm3rdzeZ0kP3zG/giphy.webp" />
 </p>
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20" />
 
