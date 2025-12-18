@@ -27,6 +27,10 @@ I enjoy building secure, scalable, and maintainable software while continuously 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20" />
 
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/9e7e054f97008a0e71e75db243d40d2e92b713c13e8f19ac28fc1f216e9345ad/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" width="420" />
+</p>
 <!-- ===================== TECH STACK ===================== -->
 
 <h2 align="center">💻 Tech Stack</h2>
